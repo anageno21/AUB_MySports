@@ -23,6 +23,7 @@
 - **User Categories Filtering**: Special discounts/privileges for students/university staff. On-chain MembershipRegistry, off-chain MongoDB, UI filters.
 - **Innovative Marketing Automations**: Email/SMS notifications, personalized recommendations, social media integration. Off-chain Node.js, SendGrid/Twilio, X API, minimal on-chain data.
 - **Environmental Initiatives**: Energy/water monitoring, eco-incentives (biking, public transport), educational events. Off-chain IoT/MongoDB, minimal on-chain data, UI for eco-stats.
+- - **Free or Private Live Streaming Channels**: Live streaming for games, classes, and events (free for all or private for members/students/staff). Off-chain streaming (Twitch/YouTube), WebSockets/Firebase, minimal on-chain access control, UI for channel list/player.
 
 ## 2. Τεχνολογίες & Εργαλεία
 - **Blockchain**: Polygon (Layer 2), Solidity (^0.8.20), OpenZeppelin (4.8.0).
