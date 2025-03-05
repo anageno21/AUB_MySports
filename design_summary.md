@@ -17,6 +17,7 @@
 - **Innovative Marketing Automations**: Email/SMS notifications, personalized recommendations, social media integration. Off-chain Node.js, SendGrid/Twilio, X API, minimal on-chain data.
 - **Environmental Initiatives**: Energy/water monitoring, eco-incentives (biking, public transport), educational events. Off-chain IoT/MongoDB, minimal on-chain data, UI for eco-stats.
 - - **Free or Private Live Streaming Channels**: Live streaming for games, classes, and events (free for all or private for members/students/staff). Off-chain streaming (Twitch/YouTube), WebSockets/Firebase, minimal on-chain access control, UI for channel list/player (π.χ. “Off-chain streaming via Twitch or YouTube”).
+- **Stage 1 Priorities (2025-03-05)**: Focus on finalizing requirements, creating wireframes in Miro, designing mockups in Illustrator, and setting up Node.js/VS Code for development.
 
 ## 2. Τεχνολογίες & Εργαλεία
 - **Blockchain**: Polygon (Layer 2), Solidity (^0.8.20), OpenZeppelin (4.8.0).
@@ -53,3 +54,7 @@
 - **Ομάδα**: 1 Individual Developer (with Grok 3 as technical advisor).
 - **Υποδομές**: Polygon access, cloud free tiers, domain registration.
 - **Εργαλεία**: Όλα δωρεάν/χαμηλού κόστους (GitHub, Docker, Vercel, Heroku, Sentry).
+
+- ## Notes
+- Plan to explore Twitch API for live streaming integration in Stage 2.
+- Consider eco-friendly icons in Illustrator for branding.
