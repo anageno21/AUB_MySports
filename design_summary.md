@@ -16,7 +16,7 @@
 - **User Categories Filtering**: Special discounts/privileges for students/university staff. On-chain MembershipRegistry, off-chain MongoDB, UI filters.
 - **Innovative Marketing Automations**: Email/SMS notifications, personalized recommendations, social media integration. Off-chain Node.js, SendGrid/Twilio, X API, minimal on-chain data.
 - **Environmental Initiatives**: Energy/water monitoring, eco-incentives (biking, public transport), educational events. Off-chain IoT/MongoDB, minimal on-chain data, UI for eco-stats.
-- - **Free or Private Live Streaming Channels**: Live streaming for games, classes, and events (free for all or private for members/students/staff). Off-chain streaming (Twitch/YouTube), WebSockets/Firebase, minimal on-chain access control, UI for channel list/player.
+- - **Free or Private Live Streaming Channels**: Live streaming for games, classes, and events (free for all or private for members/students/staff). Off-chain streaming (Twitch/YouTube), WebSockets/Firebase, minimal on-chain access control, UI for channel list/player (π.χ. “Off-chain streaming via Twitch or YouTube”).
 
 ## 2. Τεχνολογίες & Εργαλεία
 - **Blockchain**: Polygon (Layer 2), Solidity (^0.8.20), OpenZeppelin (4.8.0).
@@ -30,12 +30,13 @@
 - **Deployment**: Polygon mainnet, Vercel (free tier), Heroku (free tier), AWS Lambda.
 - **Version Control & CI/CD**: Git (GitHub), GitHub Actions, Docker (20.10.0), Dependabot/Renovate.
 - ... (υπάρχουσες τεχνολογίες)
-- **Design Tools**: Adobe Illustrator (for high-fidelity mockups, logos), Miro (for wireframes, planning).
+- - **Design Tools**: Adobe Illustrator (for high-fidelity mockups, logos, and UI elements), Miro (for wireframes, planning, and workflows).
 
 ## 3. Βελτιστοποίηση Κόστους
 - **Μείωση Gas**: Off-chain αποθήκευση λεπτομερειών, batching on-chain συναλλαγών, minimal contracts.
 - **Χαμηλό Hosting**: Vercel/Heroku free tiers, serverless functions.
 - **Minimal Maintenance**: Αυτοματοποιημένες εργασίες, δωρεάν monitoring (Sentry, UptimeRobot).
+- - **Additional Cost Considerations**: NFT minting on Polygon (low gas with batching), live streaming hosting (free tiers on Twitch/YouTube), IoT sensors (off-chain, low-cost MongoDB storage).
 
 ## 4. Στάδια Ανάπτυξης & Χρονοδιάγραμμα
 - **Στάδιο 1: Ανάλυση & Σχεδιασμός (1-2 εβδομάδες)**: Wireframes, απαιτήσεις, cost optimization.
@@ -49,6 +50,6 @@
 - **Κόστος**: Ελάχιστο (free tiers, minimal gas, gateway fees 2-3%).
 
 ## 5. Ομάδα & Πόροι
-- **Ομάδα**: 1 Project Manager, 2 Blockchain Developers, 2 Backend Developers, 2 Frontend Developers, 1 QA/Security, 1 DevOps, 1 UI/UX Designer.
+- **Ομάδα**: 1 Individual Developer (with Grok 3 as technical advisor).
 - **Υποδομές**: Polygon access, cloud free tiers, domain registration.
 - **Εργαλεία**: Όλα δωρεάν/χαμηλού κόστους (GitHub, Docker, Vercel, Heroku, Sentry).
