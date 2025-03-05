@@ -58,3 +58,4 @@
 - ## Notes
 - Plan to explore Twitch API for live streaming integration in Stage 2.
 - Consider eco-friendly icons in Illustrator for branding.
+- testing
