@@ -36,6 +36,8 @@
 - **Testing**: Truffle (5.5.0), Ganache (7.0.0), Jest (29.5.0), BrowserStack.
 - **Deployment**: Polygon mainnet, Vercel (free tier), Heroku (free tier), AWS Lambda.
 - **Version Control & CI/CD**: Git (GitHub), GitHub Actions, Docker (20.10.0), Dependabot/Renovate.
+- ... (υπάρχουσες τεχνολογίες)
+- **Design Tools**: Adobe Illustrator (for high-fidelity mockups, logos), Miro (for wireframes, planning).
 
 ## 3. Βελτιστοποίηση Κόστους
 - **Μείωση Gas**: Off-chain αποθήκευση λεπτομερειών, batching on-chain συναλλαγών, minimal contracts.
