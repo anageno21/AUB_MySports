@@ -21,6 +21,7 @@
 		1F5792952D8017ED001637F4 /* Padel bookins wireframe#1.png in Resources */ = {isa = PBXBuildFile; fileRef = 1F5792942D8017ED001637F4 /* Padel bookins wireframe#1.png */; };
 		1F5792972D801810001637F4 /* Padel bookins wireframe#3.png in Resources */ = {isa = PBXBuildFile; fileRef = 1F5792962D801810001637F4 /* Padel bookins wireframe#3.png */; };
 		1FC354BD2D80A56C008B0D3F /* Padel bookins wireframe#1a.png in Resources */ = {isa = PBXBuildFile; fileRef = 1FC354BC2D80A56C008B0D3F /* Padel bookins wireframe#1a.png */; };
+		1FE560DB2D819A9500EA9A32 /* Padel bookins wireframe#4.png in Resources */ = {isa = PBXBuildFile; fileRef = 1FE560DA2D819A9500EA9A32 /* Padel bookins wireframe#4.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		1F5792942D8017ED001637F4 /* Padel bookins wireframe#1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Padel bookins wireframe#1.png"; path = "Wireframes_Designs/Padel bookins wireframe#1.png"; sourceTree = SOURCE_ROOT; };
 		1F5792962D801810001637F4 /* Padel bookins wireframe#3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Padel bookins wireframe#3.png"; path = "Wireframes_Designs/Padel bookins wireframe#3.png"; sourceTree = SOURCE_ROOT; };
 		1FC354BC2D80A56C008B0D3F /* Padel bookins wireframe#1a.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Padel bookins wireframe#1a.png"; path = "Wireframes_Designs/Padel bookins wireframe#1a.png"; sourceTree = SOURCE_ROOT; };
+		1FE560DA2D819A9500EA9A32 /* Padel bookins wireframe#4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Padel bookins wireframe#4.png"; path = "Wireframes_Designs/Padel bookins wireframe#4.png"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 		1F5792572D7F05DF001637F4 /* AUB_SportsUI */ = {
 			isa = PBXGroup;
 			children = (
+				1FE560DA2D819A9500EA9A32 /* Padel bookins wireframe#4.png */,
 				1FC354BC2D80A56C008B0D3F /* Padel bookins wireframe#1a.png */,
 				1F5792962D801810001637F4 /* Padel bookins wireframe#3.png */,
 				1F5792942D8017ED001637F4 /* Padel bookins wireframe#1.png */,
@@ -248,6 +251,7 @@
 			files = (
 				1F57928B2D7F1125001637F4 /* AUB_MySports in Resources */,
 				1F5792652D7F05E1001637F4 /* LaunchScreen.storyboard in Resources */,
+				1FE560DB2D819A9500EA9A32 /* Padel bookins wireframe#4.png in Resources */,
 				1F57928D2D7F1288001637F4 /* AUB_MySports in Resources */,
 				1FC354BD2D80A56C008B0D3F /* Padel bookins wireframe#1a.png in Resources */,
 				1F5792952D8017ED001637F4 /* Padel bookins wireframe#1.png in Resources */,
